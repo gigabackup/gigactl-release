@@ -1,0 +1,4 @@
+prLink: "https://github.com/gigantum/self-hosted/pull/30"
+changelog:
+  - type: IMPROVEMENT
+    description: Use internal routes for gitlab auth to avoid connection issues
